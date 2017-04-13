@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/fuyan/kaggle/dogs_vs_cats/new/cat_dog_train/model.ckpt-5999"
+all_model_checkpoint_paths: "/home/fuyan/kaggle/dogs_vs_cats/new/cat_dog_train/model.ckpt-2000"
+all_model_checkpoint_paths: "/home/fuyan/kaggle/dogs_vs_cats/new/cat_dog_train/model.ckpt-3000"
+all_model_checkpoint_paths: "/home/fuyan/kaggle/dogs_vs_cats/new/cat_dog_train/model.ckpt-4000"
+all_model_checkpoint_paths: "/home/fuyan/kaggle/dogs_vs_cats/new/cat_dog_train/model.ckpt-5000"
+all_model_checkpoint_paths: "/home/fuyan/kaggle/dogs_vs_cats/new/cat_dog_train/model.ckpt-5999"
